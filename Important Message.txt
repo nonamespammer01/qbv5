@@ -1,0 +1,13 @@
+IMPORTANT MESSAGE
+
+IB Version 5 QuestionBanks®
+Please download and extract the whole .zip file.
+Then open "index.html"
+It will open in your own browser, the UI will be available like any website.
+Do not modify any files inside the folders.
+
+IB Documents (2) Team with u/aimlesskr
+
+Thanks,
+
+aimless
